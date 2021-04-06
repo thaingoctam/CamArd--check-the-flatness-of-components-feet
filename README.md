@@ -9,7 +9,7 @@
 ##### 2. Connected to the Arduino UNO R3
 ##### 3. read the user configuration file
 ##### 3. Exactly check component foot difference
-##### Processing speed: 0.002s.
+#### Processing speed: 0.002s.
 
 ### Main Windown:
 ![main win](https://user-images.githubusercontent.com/57834526/113750986-9db6dd00-9735-11eb-875c-4ae3c71c1cd4.PNG)
