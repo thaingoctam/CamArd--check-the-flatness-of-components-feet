@@ -3,9 +3,10 @@
 
 
 ### Feature:
-##### 1. Connected with camera 
+##### 1. Connected to the camera 
+<img src="https://user-images.githubusercontent.com/57834526/113749905-5da32a80-9734-11eb-8182-a35a07c63e21.jpg" width="250" height="250" />
 
-##### 2. Open Folder ( Open many file in a folder)
+##### 2. Connected to the Arduino UNO R3
 
 ![music app](https://user-images.githubusercontent.com/57834526/71351475-57705580-25a6-11ea-853c-52620a41aad5.PNG)
 
